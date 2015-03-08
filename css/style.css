@@ -1,0 +1,19 @@
+ul.accordion01,
+ul.accordion02 {
+  margin-left: 0;
+  list-style-type: none;
+}
+ul.accordion01 li > a,
+ul.accordion02 li > a {
+  display: block;
+}
+ul.accordion01 .content {
+  display: none;
+}
+ul.accordion02 .content {
+  overflow: hidden;
+}
+ul.accordion01 li.active,
+ul.accordion02 li.active {
+  background-color: #9BDFB4;
+}
