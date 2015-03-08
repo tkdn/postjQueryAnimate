@@ -16,7 +16,7 @@ $ npm install
 $ npm run bundle
 ```
 
-You will get `js/bundle.js`.
+You will get `js/bundle.js` and `js/bundle.min.js`.
 
 ## Confirm index.html
 
